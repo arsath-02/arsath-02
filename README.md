@@ -16,11 +16,11 @@ I am a fresher seeking a challenging position to apply my skills in machine lear
 ## My Skills
 
 ### Languages:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" style="margin-right: 5px;"/>Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" style="margin-right: 5px;"/>Javascript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" style="margin-right: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20" style="margin-right: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" style="margin-right: 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" style="margin-right: 10px;"/>Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" style="margin-right: 10px;"/>Javascript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" style="margin-right: 10px;"/>Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20" style="margin-right: 10px;"/>C
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="20" height="20" style="margin-right: 10px;"/>SQL
 
 <br> <!-- Adds a line break for spacing -->
 
