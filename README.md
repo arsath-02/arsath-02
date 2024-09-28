@@ -34,8 +34,8 @@ I am a fresher seeking a challenging position to apply my skills in machine lear
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/>
 
 ## Stats
-![LeetCode Stats](https://leetcode-stats.herokuapp.com/yourusername)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcode-stats.herokuapp.com/arsath-02)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=github.com/arsath-02&show_icons=true&theme=radical)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/arsath02/)
