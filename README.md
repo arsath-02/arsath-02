@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohamed Arsath H!
+# Hi there 👋, I'm Arsath !
 
 Welcome to my GitHub profile! Here are a few things about me:
 
