@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! Here are a few things about me:
 
+## About Me
+  I am fresher seeking a challenging position to apply my skills in machine learning and web development. 
+
 - 🔭 I’m currently working on Intern
 - 🌱 I’m learning Ai
 - 👯 I’m looking to collaborate on 
@@ -11,11 +14,11 @@ Welcome to my GitHub profile! Here are a few things about me:
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## My Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Flask
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** Python, JavaScript, HTML, CSS, Java, C, SQl.
+- **Frameworks/Libraries:** React, Node.js, Flask, Fast api, Express.
+- **Tools:** Git, Docker, Jenkins , Flask, TensorFlow, Keras, Scikit-learn, Pandas.
 
-![Your Image](https://your-image-link.com)
+![Image](https://drive.google.com/drive/home)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/arsath02/)
