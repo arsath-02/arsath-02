@@ -18,6 +18,6 @@ Welcome to my GitHub profile! Here are a few things about me:
 ![Your Image](https://your-image-link.com)
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/arsath02/)
+- [Leetcode](https://leetcode.com/u/arsath-02/)
 "# arsath-02" 
