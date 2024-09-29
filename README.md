@@ -1,3 +1,29 @@
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsath-02&label=Profile%20views&color=0e75b6&style=flat" alt="arsath-02" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arsath02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsath02" height="30" width="40" /></a>
+<a href="https://kaggle.com/arsathmohamed02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arsathmohamed02" height="30" width="40" /></a>
+<a href="https://instagram.com/_.h.arsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.h.arsath" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arsath-02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsath-02" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arsath02a5q5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arsath02a5q5/profile" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsath-02&show_icons=true&locale=en&layout=compact" alt="arsath-02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsath-02&show_icons=true&locale=en" alt="arsath-02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsath-02&" alt="arsath-02" /></p>
+
+
+
+
+
+
+
+
 # Hi there 👋, I'm Arsath !
 
 Welcome to my GitHub profile! Here are a few things about me:
