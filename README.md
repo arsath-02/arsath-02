@@ -110,6 +110,8 @@
 
 ---
 
+<h3 align="center">GitHub Stats</h3>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsath-02&show_icons=true&locale=en&layout=compact" alt="arsath-02" /></p>
 
@@ -117,11 +119,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsath-02&" alt="arsath-02" /></p>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsath-02&show_icons=true&locale=en" alt="arsath-02" />
-</p>
 
 <h3 align="center">LeetCode Stats</h3>
 
