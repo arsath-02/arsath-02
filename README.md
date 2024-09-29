@@ -43,7 +43,7 @@ I am a fresher seeking a challenging position to apply my skills in machine lear
 <br> <!-- Adds a line break for spacing -->
 
 ## Stats
-![LeetCode Stats](https://leetcode-stats.herokuapp.com/arsath-02)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/arsath-02)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsath-02&show_icons=true&theme=radical)
 
 <br> <!-- Adds a line break for spacing -->
