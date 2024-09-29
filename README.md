@@ -1,4 +1,5 @@
-Here’s your updated GitHub profile with proper alignment and added GitHub and LeetCode stats:
+
+# Hi there 👋, I'm Arsath ✨💫!
 
 ---
 
@@ -121,6 +122,3 @@ Here’s your updated GitHub profile with proper alignment and added GitHub and 
   <img src="https://leetcard.jacoblin.cool/arsath-02?theme=dark&font=Poppins&ext=contest" alt="arsath-02 LeetCode Stats"/>
 </p>
 
----
-
-This version includes **proper alignment** and displays both **GitHub stats** and **LeetCode stats** effectively. Let me know if you want further adjustments!
