@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">Passionate Frontend Developer from India</h3>
+<h3 align="center">Passionate Web Developer & ML Engineer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arsath-02&label=Profile%20views&color=0e75b6&style=flat" alt="arsath-02" />
@@ -24,7 +24,7 @@
   <a href="https://auth.geeksforgeeks.org/user/arsath02a5q5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arsath02a5q5/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
