@@ -44,6 +44,7 @@ I am a fresher seeking a challenging position to apply my skills in machine lear
 
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/arsath-02)  
+<br> 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsath-02&show_icons=true&theme=radical)
 
 <br> <!-- Adds a line break for spacing -->
