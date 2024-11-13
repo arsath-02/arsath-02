@@ -15,7 +15,7 @@
 - 🔭 **Currently Working On**: [AI Powered Resume Builder](https://github.com/arsath-02/resume-builder)  
 - 🌱 **Learning**: AWS, Docker  
 - 👯 **Looking to Collaborate On**: [Turf Booking System](https://github.com/arsath-02/turf_booking_app)  
-- 📫 **Reach Me**: arsath02@gmail.com  
+- 📫 **Reach Me**: arsathh02@gmail.com  
 - 📄 **My Experience**: [View Resume](https://drive.google.com/file/d/1JnoVWQPPF0Lm5q4XAyyw-md5wFsCWyPG/view?usp=sharing)  
 
 <h3 align="left">Connect with Me</h3>
